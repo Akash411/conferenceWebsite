@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+.nav-item{
+    padding: 20px;
+}
+
+.navbar{
+    background-color: transparent;
+}
+.carousel-item{
+    height: 500px;
+	position: relative;
+}
+.corousel-text{
+align-item: center
+position: abosute;
+top: 50%;
+left: 50%;
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(50%);
+}
